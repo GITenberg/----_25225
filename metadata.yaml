@@ -1,0 +1,35 @@
+_repo: '----_25225'
+_version: 0.1.0
+alternative_title: Gu wen guan zhi
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Wu, Chengquan, active 1695-1711
+    aliases:
+    - 吳乘權
+    - Wu, Chucai
+    gutenberg_agent_id: '31160'
+    url: http://www.gutenberg.org/2009/agents/31160
+  - agent_name: Wu, Dazhi, active 1678-1695
+    aliases:
+    - 吳大職
+    - Wu, Tiao-hou
+    - Wu, Diaohou
+    gutenberg_agent_id: '31161'
+    url: http://www.gutenberg.org/2009/agents/31161
+description: ''
+gutenberg_issued: '2008-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25225'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Chinese prose literature'
+title: 古文觀止
+url: http://www.gutenberg.org/ebooks/25225
